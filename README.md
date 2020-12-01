@@ -1,4 +1,6 @@
 # desafio_componentes
+# usando Componentes Vue G4
+Ejemplo de uso de componentes con Props.
 
 ## Project setup
 ```
